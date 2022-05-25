@@ -1,8 +1,0 @@
-Started by user [8mha:////4MJUOYf3utQA8vd4yC9ufi7fcugrYrV9i5/BFLdBoSCAAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZh/dLi1CL9ssSMxLzirNS87My8YgArTwQUyAAAAA==[0mVahan Gevorgyan
-Running as SYSTEM
-Building remotely on [8mha:////4NM3wWOR/XChY24E7kn3aEeWs0+695mSPUA2ETtqQQx1AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZB/eT83ILSktQifRd/Z2/XIEMAeMyF+MYAAAA=[0mDOCKER1 in workspace /Users/vahangevorgyan/jenkins/workspace/DOCKER_TEST
-[DOCKER_TEST] $ /bin/sh -xe /var/folders/8c/1bqg1cj57jq792d1zxqhfl3r0000gn/T/jenkins9363521049551402037.sh
-+ docker ps
-CONTAINER ID   IMAGE                 COMMAND                  CREATED          STATUS          PORTS                                              NAMES
-1ce6aa5a4a7a   jenkins/jenkins:lts   "/sbin/tini -- /usr/…"   48 minutes ago   Up 48 minutes   0.0.0.0:8080->8080/tcp, 0.0.0.0:50000->50000/tcp   agitated_hopper
-Finished: SUCCESS
